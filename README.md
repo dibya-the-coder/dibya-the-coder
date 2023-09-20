@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DIBYA RANJAN ROUT</h1>
 
 # 💫 About Me:
-🔭 I’m currently pursuing MCA<br>👯 I’m looking for a team to gain the knowledge of enterprise projects<br>🤝 I’m looking for a team to gain the knowledge of enterprise projects<br>🌱 I’m currently learning SPRING BOOT
+🔭 I’m currently pursuing MCA<br>👯 I’m looking for a team to gain the knowledge of enterprise projects<br>🌱 I’m currently learning SPRING BOOT
 
 
 ## 🌐 Socials:
