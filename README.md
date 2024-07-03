@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN as a Intern <br>👯 I’m looking to collaborate on Open source <br>🤝 I’m looking for help with FULL STACK DEVELOPER<br>🌱 I’m currently learning NEXT.js
+🔭 I’m currently working on MERN as an Intern <br>👯 I’m looking to collaborate on Open source <br>🤝 I’m looking for help with FULL STACK DEVELOPER<br>🌱 I’m currently learning NEXT.js
 
 
 # 💻 Tech Stack:
